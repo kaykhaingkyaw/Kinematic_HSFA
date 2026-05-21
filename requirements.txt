@@ -1,0 +1,15 @@
+# Core Numerical and Scientific Libraries
+numpy
+pandas
+scipy
+matplotlib
+
+# Geospatial Processing
+rasterio
+geopandas
+shapely
+fiona
+
+# System/Utilities
+scikit-image
+tabulate
