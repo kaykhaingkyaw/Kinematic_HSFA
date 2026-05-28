@@ -4,10 +4,10 @@ This algorithm simulates flooding beyond the boundaries of the depressions, whic
 
 The example dataset required to run this algorithm (including the 1m resolution LiDAR DEM, flow direction, watersheds, bluespots and events) is hosted on Zenodo.
 
-**Dataset DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18484142.svg)](https://doi.org/10.5281/zenodo.18484142)
+**Dataset DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18484142.svg)](https://doi.org/10.5281/zenodo.20432222)
 
 ### Instructions to Setup Data:
-1. **Download** the zip file from [Zenodo (DOI: 10.5281/zenodo.18484142)](https://doi.org/10.5281/zenodo.18484142).
+1. **Download** the zip file from [Zenodo (DOI: https://doi.org/10.5281/zenodo.20432222)].
 2. **Create** a folder named `data` in your project root directory.
 3. **Extract** the contents into that folder. Your directory should look like this:
    ```text
