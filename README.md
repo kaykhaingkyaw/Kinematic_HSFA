@@ -90,10 +90,9 @@ FOR each watershed/bluespot → if Vups ≥ Vreq then accept Δh, else recalcula
 WRITE final_deltah back into the results table
 ```
 #### Expected Terminal Output:
-<img width="442" height="222" alt="image" src="https://github.com/user-attachments/assets/213e5023-d9c2-4887-94f8-842e6a4f9b79" />
+<img width="636" height="332" alt="001" src="https://github.com/user-attachments/assets/9ec6916b-3d53-4eef-bcbb-1613f5abc043" />
 
 ---
-
 ### Step 8: Travel time delay
 ```python
 FOR each upstream stream path → sum all travel‑time segments to obtain total_delay_time and shift the spill‑volume hydrograph accordingly
