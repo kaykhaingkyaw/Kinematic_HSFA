@@ -7,7 +7,7 @@ The example dataset required to run this algorithm (including the 1m resolution 
 **Dataset DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18484142.svg)](https://doi.org/10.5281/zenodo.20432222)
 
 ### Instructions to Setup Data:
-1. **Download** the zip file from [Zenodo (DOI: https://doi.org/10.5281/zenodo.20432222)].
+1. **Download** the zip file from [Zenodo (DOI: https://doi.org/10.5281/zenodo.20432222)]. Modelling results from both this algorithm and HEC-RAS models can be found at https://doi.org/10.5281/zenodo.20692074
 2. **Create** a folder named `data` in your project root directory.
 3. **Extract** the contents into that folder. Your directory should look like this:
    ```text
